@@ -1,0 +1,79 @@
+.address {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.address:hover {
+    background-color: #e9e9e9;
+}
+.address .name {
+    font-weight: bold;
+    color: #333;
+}
+.address .email {
+    color: #666;
+}
+.address .phone {
+    color: #999;
+}
+.address .address-line {
+    margin: 5px 0;
+}
+.address .city,
+.address .state,
+.address .zip {
+    color: #999;
+}   
+.address .country {
+    color: #999;
+}
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile
+%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+@@ -1,1 +1,1 @@
++SK 0.2
+- --- IGNORE ---
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+@@ -1,1 +1,1 @@
++SK 0.2
+- --- IGNORE ---
+
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile
+%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+@@ -1,1 +1,1 @@
++SK 0.2
+- --- IGNORE ---
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile
+%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+@@ -1,1 +1,1 @@
++SK 0.2
+- --- IGNORE ---
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile
+%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+@@ -1,1 +1,1 @@
++SK 0.2
+- --- IGNORE ---
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile
+%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+@@ -1,1 +1,1 @@
++SK 0.2
+- --- IGNORE ---    
+--- a/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
++++ b/vscode-scm:git/scm0/input?rootUri%3Dfile%253A%252F%252F%252Ff%25253A%252FDH%252520LEARN%252520%252521
+
+
+
+
+
+
+
+
+
+
+
+
